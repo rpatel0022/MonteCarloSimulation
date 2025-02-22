@@ -14,7 +14,7 @@ This project simulates stock price movements using the **Geometric Brownian Moti
 ## 🔹 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/monte_carlo_stock_simulation.git
+git clone https://github.com/rpatel0022/MonteCarloSimulation.git
 cd monte_carlo_stock_simulation
 pip install -r requirements.txt
 ```
